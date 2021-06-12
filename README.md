@@ -1,5 +1,8 @@
 # README
 
+* Setup 'rails db:create db:migrate db:seed'
+* Try 'curl http://127.0.0.1:3000/api/v1/locations/4.json'
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
